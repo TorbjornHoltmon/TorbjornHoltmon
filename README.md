@@ -1,4 +1,6 @@
-# Developer @ [Making Waves](https://www.makingwaves.com/)👨‍💻
+Developer 👨‍💻 @ [Making Waves](https://www.makingwaves.com/)
+
+https://holtmon.dev
 
 <!--
 **TorbjornHoltmon/TorbjornHoltmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
