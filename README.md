@@ -2,7 +2,7 @@ Developer 👨‍💻 @ [Making Waves](https://www.makingwaves.com/)
 
 https://holtmon.dev
 
-![Silly Github Profile](https://raw.githubusercontent.com/TorbjornHoltmon/TorbjornHoltmon/master/SillyGithubProfile.png "Silly Github Profile")
+![Silly Github Profile](https://raw.githubusercontent.com/TorbjornHoltmon/TorbjornHoltmon/master/SillyGithubProfileImage.png "Silly Github Profile")
 
 <!--
 **TorbjornHoltmon/TorbjornHoltmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
