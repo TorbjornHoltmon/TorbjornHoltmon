@@ -1,4 +1,4 @@
-Developer 👨‍💻 @ [Making Waves](https://www.makingwaves.com/)
+Developer 👨‍💻 @ [NoA Ignite](https://noaignite.no/)
 
 https://holtmon.dev
 
